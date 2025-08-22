@@ -6,7 +6,7 @@ A martial order of monster hunters, craftspeople, and survivalists who believe t
 
 Founded by slayers who once battled alongside Cinderviel’s early pioneers, the Guild has since grown into a respected (and feared) institution. Their guildhall resembles more of an armory and workshop than a scholarly hall, its walls lined with trophies of slain creatures, wyvern skulls, hydra fangs, basilisk hides each one a record of victory and sacrifice.
 
-![download.webp](/img/user/download.webp)![hzd-carja-hunters-lodge.jpg](/img/user/hzd-carja-hunters-lodge.jpg)
+![download.webp](/img/user/Art/download.webp)![hzd-carja-hunters-lodge.jpg](/img/user/Art/hzd-carja-hunters-lodge.jpg)
 
 ### **Purpose & Role**
 The Guild exists to protect the people from monstrous threats while reaping the rewards of the hunt. Their members are trained to track, study, and slay creatures that threaten trade routes, farmlands, or the city itself. Every hunt serves a dual purpose: to safeguard civilization and to supply the materials needed to forge unparalleled arms and armor. Smiths, alchemists, and artisans within the Guild are as revered as the hunters themselves, crafting equipment imbued with the strength and resilience of the beasts that provided them. In this way, the Guild turns monsters into mankind’s greatest weapons.
