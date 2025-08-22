@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations-of-note/the-city-of-cinderveil/the-city-of-cinderveil/"}
+{"dg-publish":true,"permalink":"/locations-of-note/the-city-of-cinderveil/the-city-of-cinderveil/","pinned":true}
 ---
 
 Testing
