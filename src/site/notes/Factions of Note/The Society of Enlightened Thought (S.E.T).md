@@ -6,7 +6,7 @@ The **Society of Enlightened Thought (SET)** is one of Cinderviel’s most influ
 
 Founded a century ago by a coalition of eccentric wizards and philosophers, the Society has grown into a powerful network of laboratories, libraries, and arcane halls scattered across the globe. Though their discoveries benefit the city; warding magics, public works, and enchanted medicine. Their experiments have also birthed controversy, as their pursuit of knowledge sometimes drifts into the dangerous and the unethical.
 
-![[anime-girl-alchemist-magical-laboratory_1282444-97947.avif]]
+![SET.png](/img/user/Art/SET.png)
 #### **Purpose & Role**
 The Society of Enlightened Thought exists to unravel the mysteries of magic and bend them toward progress, no matter the risk. Its members dedicate themselves to documenting and dissecting the unknown, whether in the form of dragonfire, divine miracles, or artifacts pried from ancient ruins. They push the limits of spellcraft and enchantment, forging new rituals and inventions that often blur the line between brilliance and danger. Acting as both scholars and custodians, the Society secures powerful relics for study, ensuring such treasures do not fall into reckless hands while quietly reserving the knowledge for their own archives. Beyond research, the Society serves as the city’s foremost authority on arcane matters, advising nobles and the Council alike, and in doing so, shaping policies that can sway the fate of nations as easily as they might a laboratory experiment.
 #### **Structure**
