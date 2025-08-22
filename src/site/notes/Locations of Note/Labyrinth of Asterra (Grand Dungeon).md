@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/locations-of-note/labyrinth-of-asterra-grand-dungeon/"}
 ---
 
+![vizlab-studios-mines-04-10mb (1).jpg](/img/user/vizlab-studios-mines-04-10mb%20(1).jpg)
+
 At the heart of Cinderviel lies the **Labyrinth of Asterra**, a spiraling dungeon that plunges into the world’s very core. Its colossal gates of obsidian and rune-marked stone stand ever open, daring the bold to enter. Within, its passage winds downward in an endless coil, each level vast enough to be a world unto itself.
 
 No map has ever held true for long. Each month, as if stirred by some unseen will, the Labyrinth shifts, walls slide, staircases dissolve, and chambers rearrange themselves into new and crueler patterns. Entire wings vanish, only to resurface weeks later in different forms, filled with new dangers and stranger wonders.
